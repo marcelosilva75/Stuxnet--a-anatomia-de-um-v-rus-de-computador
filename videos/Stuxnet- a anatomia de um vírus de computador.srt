@@ -1,0 +1,192 @@
+1
+00:00:01,000 --> 00:00:05,000
+Anatomia de um vírus de computador
+
+2
+00:00:06,980 --> 00:00:10,220
+Em junho do ano passado, um vírus chamado Stuxnet
+
+3
+00:00:10,760 --> 00:00:16,620
+Foi descoberto em bancos de dados de usinas, sistemas de controle de tráfego e fábricas em todo o mundo
+
+4
+00:00:17,200 --> 00:00:20,200
+20 vezes mais complexo do que qualquer vírus conhecido
+
+5
+00:00:20,400 --> 00:00:28,360
+Sua única capacidade era prejudicar o funcionamento de usinas nucleares e desligar oleodutos
+
+6
+00:00:28,820 --> 00:00:32,220
+Mas, para os operadores do sistema afetado, tudo continuava parecendo normal
+
+7
+00:00:34,000 --> 00:00:35,720
+Ao contrário da maioria dos vírus
+
+8
+00:00:36,20 --> 00:00:38,820
+O Stuxnet não usa os métodos tradicionais para enganar a segurança dos sistemas
+
+9
+00:00:39,20 --> 00:00:41,260
+que ajuda os vírus a se esconderem dentro dos sistemas
+
+10
+00:00:41,720 --> 00:00:47,860
+Ele usa tecnologia roubada de uma das maiores indústrias de tecnologia do mundo
+
+11
+00:00:49,200 --> 00:00:53,480
+Ele explora as falhas de segurança que os criadores dos sistemas não conheciam
+
+12
+00:00:53,980 --> 00:00:56,379
+Essas falhas são chamadas falhas "zero day"
+
+13
+00:00:56,780 --> 00:00:59,700
+E o Stuxnet é o vírus que as explora da maneira mais eficiente
+
+14
+00:01:00,220 --> 00:01:04,340
+Os detalhes de um "zero day" podem ser vendidos no mercado negro por US$ 100 mil
+
+15
+00:01:04,720 --> 00:01:08,460
+O Stuxnet se aproveitava de vinte falhas "zero day"
+
+16
+00:01:08,800 --> 00:01:12,20
+Mas ele não era ativado depois de infectar os sistemas comuns
+
+17
+00:01:12,340 --> 00:01:15,920
+Pois, escondido profundamente em seu código, havia um alvo específico
+
+18
+00:01:16,320 --> 00:01:19,479
+Fora desse alvo, o vírus permanecia adormecido
+
+19
+00:01:19,960 --> 00:01:21,960
+O que ele queria desligar?
+
+20
+00:01:22,240 --> 00:01:26,880
+As centrífugas de enriquecimento nuclear iranianas
+
+21
+00:01:27,834 --> 00:01:29,834
+O Stuxnet é uma arma
+
+22
+00:01:30,180 --> 00:01:32,960
+A primeira inteiramente fabricada de código
+
+23
+00:01:39,20 --> 00:01:43,39
+O Instituto de Ciências e Segurança Internacional, em Washington
+
+24
+00:01:43,380 --> 00:01:46,500
+Disse que, em 2010, o vírus pode ter desligado 1000 centrífugas em Natanz
+
+25
+00:01:47,314 --> 00:01:50,494
+A maior usina de enriquecimento de urânio iraniana
+
+26
+00:01:50,980 --> 00:01:56,120
+Em novembro, a Agência Internacional de Energia Atômica e a ONU
+
+27
+00:01:56,440 --> 00:02:01,380
+Disseram que o Irã suspendeu o trabalho em suas usinas nucleares, sem explicar o motivo
+
+28
+00:02:01,554 --> 00:02:03,554
+Muitos observadores disseram que tinha sido em decorrência do Stuxnet
+
+29
+00:02:03,936 --> 00:02:06,436
+No mês passado, o governo iraniano admitiu que o vírus também tinha infectado
+
+30
+00:02:06,920 --> 00:02:11,380
+ A usina nuclear de Bashehr, ainda em construção
+
+31
+00:02:11,640 --> 00:02:15,820
+O que poderia significar um blecaute nacional de energia no Irã
+
+32
+00:02:16,700 --> 00:02:22,179
+O Irã respondeu convidando hackers de todo o mundo a se juntarem à Guarda Revolucionária Iraniana
+
+33
+00:02:22,560 --> 00:02:26,380
+O que, segundo o país, deu origem ao segundo maior exército on-line do mundo
+
+34
+00:02:26,494 --> 00:02:28,954
+Mas quem está por trás do Stuxnet?
+
+35
+00:02:29,363 --> 00:02:31,363
+Não há provas, apenas rumores
+
+36
+00:02:31,614 --> 00:02:33,614
+Alguns dizem que Israel é o responsável
+
+37
+00:02:33,880 --> 00:02:38,60
+Porque o código do vírus teria referências à bíblia hebraica
+
+38
+00:02:38,240 --> 00:02:41,500
+Outros acreditam que os EUA estão envolvidos no processo de desenvolvimento e teste
+
+39
+00:02:41,940 --> 00:02:48,720
+Também se especulou sobre o envolvimento da Siemens, que produziu o software usado pelo regime iraniano.
+
+40
+00:02:49,840 --> 00:02:52,994
+A questão mais importante não é quem desenhou o Stuxnet
+
+41
+00:02:52,994 --> 00:02:55,174
+Mas quem vai redesenhá-lo?
+
+42
+00:02:55,460 --> 00:02:59,400
+A evolução tem sido acelerada. Nove meses após ser detectado
+
+43
+00:02:59,680 --> 00:03:05,40
+O primeiro vírus que tem o poder de destruir usinas de energia ou oleodutos está disponível on-line
+
+44
+00:03:05,260 --> 00:03:07,380
+Para quem quiser baixá-lo e "brincar" com  seu código
+
+45
+00:03:07,500 --> 00:03:10,800
+Há vídeos no YouTube de gente alterando  o código do Stuxnet
+
+46
+00:03:11,120 --> 00:03:13,440
+O Stuxnet é uma arma de código aberto
+
+47
+00:03:13,875 --> 00:03:15,875
+E não há como saber quem vai usá-lo
+
+48
+00:03:15,875 --> 00:03:17,874
+Ou para que ele vai ser usado
+
